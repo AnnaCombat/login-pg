@@ -4,7 +4,7 @@
 
 
 
-Projeto pessoal de uma página de login responsiva, utilizando Html, Css e Javascript.
+Projeto pessoal de uma página de login, utilizando Html, Css e Javascript.
 
 
 <h4 align="center"> 
